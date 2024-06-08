@@ -1,0 +1,540 @@
+ /* first step strt */
+.fpic{
+    
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("ph-1.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+     height: 750px;
+}
+.fh{
+    font-weight: 700;
+    font-size: 3.75rem;
+    color: white;
+    margin-top: 190px;
+    text-align: center;
+}
+.fd{
+    width:770px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.fp{
+    color: white;
+}
+.chd{
+    background-color:burlywood;
+}
+.fbon{
+    color: white;
+    text-decoration: none;
+    background-color: burlywood;
+    padding: 13px 30px;
+    border-radius: 20px;
+    
+}
+.fbto{
+    color: white;
+    text-decoration: none;
+    padding: 13px 30px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 20px; 
+}
+.fbto:hover{
+    background-color: white;
+    color: black;
+}
+.fdto{
+    text-align: center;
+}
+.fpp{
+    color: white;
+    display:inline-block;
+}
+.fbthree{
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    display: inline-block;   
+}
+.fdthree{
+    text-align: center;
+}
+/* first step end */
+
+/* sec step strt */
+.sdiv{
+    display: flex;
+    margin-left: 35px;
+}
+.divon{
+    background-color: rgb(186, 140, 79);
+    width: 265px;
+    height: 220px;
+    margin-left: 30px;
+    margin-top: -70px;
+    
+}
+.logo{
+    width: 60px;
+    margin-left: 38%;
+    margin-top: 20%;
+}
+.sch{
+    color: white;
+    margin-left: 60px;
+    margin-top: 23px;
+    font-size: 27px;
+}
+.schf{
+    color: white;
+    margin-left: 86px;
+    margin-top: 23px;
+    font-size: 27px;
+}
+
+
+/* sec step end */
+
+/* third step strt */
+.thrh{
+    text-align: center;
+    font-weight: 700;
+    font-size: 3.75rem;
+    margin-top: 140px;
+}
+.thrp{
+    text-align: center;
+}
+.sm{
+    display: flex;
+    margin-left: 56px;
+}
+.dpon{
+    background-image: url("ph-2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.dpto{
+    margin-left: 17px;
+    background-image: url("ph-3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.dpthree{
+    margin-left: 17px;
+    background-image: url("ph-4.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.smto{
+    
+    display: flex;
+    margin-top: 17px;
+    margin-left: 39px;
+}
+.dppon{
+    margin-left: 17px;
+    background-image: url("ph-5.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.dppto{
+    margin-left: 17px;
+    background-image: url("ph-6.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.dppthree{
+    margin-left: 17px;
+    background-image: url("ph-7.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.smthre{
+    text-align: center;
+
+}
+.lsp{
+    display: inline-block;
+    
+
+}
+.lsb{
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border-bottom: 1px solid black;
+}
+.lsdto{
+   text-align: center;
+}
+.lsbto{
+    color: white;
+    text-decoration: none;
+    background-color: burlywood;
+    padding: 13px 30px;
+    border-radius: 20px;
+}
+  /* 3rd step end */
+
+  /* 4th step strt */
+  .secto{
+    background-color:burlywood;
+  }
+  .fourh{
+    font-weight: 600;
+    font-size: 3.75rem;
+    color: white;
+    margin-top: 95px;
+    text-align: center;
+  }
+  .fpon{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+  }
+  .fpto{
+    color: white;
+    text-align: center;
+    font-size: 18px;
+  }
+  .sdon{
+    display: flex;
+    margin-left: 56px;
+}
+.chon{
+    background-image: url("ph-8.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.chto{
+    background-image: url("ph-9.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    margin-left: 17px;
+    width: 369px;
+     height:346px;
+}
+.chthree{
+    background-image: url("ph-10.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    margin-left: 17px;
+    width: 369px;
+     height:346px;
+}
+.sdonn{
+    display: flex;
+    margin-left: 56px;
+    margin-top: 17px;
+}
+.chonn{
+    background-image: url("ph-11.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 369px;
+     height:346px;
+}
+.chtoo{
+    background-image: url("ph-12.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    margin-left: 17px;
+    width: 369px;
+     height:346px;
+}
+.chthre{
+    background-image: url("ph-13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    margin-left: 17px;
+    width: 369px;
+     height:346px;
+}
+.smt{
+    text-align: center;
+
+}
+.lspp{
+    display: inline-block;
+    color: white;
+    
+
+}
+.lsbb{
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid white;
+}
+
+.subd{
+    background-color: rgba(0, 0, 0, 0.566);
+    width: 369px;
+    height: 150px;
+    margin-top: 172px;
+}
+
+.bom{
+    color: white;
+    text-align: center;
+}
+
+.boom{
+    color:white;
+    text-align: center;
+    margin-top: 20px;
+}
+/* 4th step end */
+/* 5th step strt */
+.tsh{
+    font-weight: 700;
+    font-size: 3.75rem;
+    color: black;
+    margin-top: 95px;
+    text-align: center; 
+}
+.lmd{
+    display: flex;
+    margin-left: 100px;
+}
+.mchon{
+    background-image: url("ph-14.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    width: 320px;
+     height:281px;
+}
+.mchto{
+    background-image: url("ph-15.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    margin-left: 45px;
+    width: 320px;
+     height:281px;
+}
+.mchthree{
+    background-image: url("ph-16.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+    margin-left: 45px;
+    width: 320px;
+    height:281px;
+}
+.mchonn{
+    background-color:burlywood;
+    width: 250px;
+    margin-left: 33px;
+    height: 100px;
+    margin-top: 225px;
+}
+/* .mhon{
+    font-size:20px;
+
+    margin: 0 auto;  
+} */
+.mhf{
+    text-align: center;
+    padding-top: 15px;
+    color:white;
+}
+.mpf{
+    text-align: center;
+    color: white;
+}
+.ted{
+    text-align: center;
+    margin-top: 12px;
+}
+.tep{
+    font-size:18px;
+}
+.teb{
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+}
+.kk{
+    text-align: center;
+}
+/* p-to */
+/* 5th step end */
+
+/* 6th step strt */
+.lspik{
+    /* background-image: url("ph-17.jpg"); */
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+     height: 350px;
+}
+
+
+  .lspic{
+    background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("ph-17.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: 50% 50%;
+     height: 750px;
+  }
+  /* 6th step end */
+
+
+  /* 7th step strt */
+  .lshe{
+    color: white;
+    padding-left: 135px;
+    padding-top: 130px;
+    font-weight: 600;
+    font-size: 3.75rem;
+  }
+
+  .lspa{
+    color: white;
+    font-size: 22px;
+    padding-left: 135px;
+    padding-top: 35px;
+  }
+  .lss{
+    padding-left: 135px;
+  }
+  .lspo{
+ color: white;
+ display: inline-block;
+  }
+  .lsbo{
+    color: white;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 1px solid white;
+    color: white;
+
+  }
+
+  .lsbbo{
+    color: white;
+    text-decoration: none;
+    padding: 13px 30px;
+    border: 2px solid white;
+    border-radius: 20px;
+    margin-left: 125px; 
+  }
+  .emm{
+    color: white;
+  }
+  .fmn{
+    display: flex;
+  }
+  .emto{
+    margin-left: 30px;
+  }
+  .em{
+    padding: 15px;
+  }
+  .ad{
+    width: 80%;
+    padding: 15px;
+  }
+  .mas{
+    width: 80%;
+    padding: 50px;
+  }
+
+  .lsdiv{
+    margin-top: 135px;
+    margin-left: 40px;
+  }
+  .bls{
+    background-color: burlywood;
+    color: white;
+    text-decoration: none;
+    padding: 15px 205px;
+    border-radius: 20px;
+    
+  }
+
+  /* 7th end */
+
+
+
+  
+  /* ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px */
+
+
+ @media (min-width: 320px) and (max-width: 480px)
+ {
+  
+     /* CSS  */
+
+    .sdiv{
+        flex-wrap: wrap;
+
+    }
+    .divon{
+        margin-top: 15px;
+    }
+    .smto{
+        width: 670px;
+        margin-top: 15px;
+    }
+    .sm{
+        flex-wrap: wrap;
+        
+}
+
+.smto{
+    flex-wrap: wrap;
+}
+.sdon{
+    flex-wrap: wrap;
+
+}
+.sdonn{
+    flex-wrap: wrap;
+
+} 
+
+.lmd{
+    flex-wrap: wrap;
+
+}
+.lspic{
+    flex-wrap: wrap;
+
+} 
+
+ }
